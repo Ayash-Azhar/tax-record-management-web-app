@@ -1,0 +1,14 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore ASP.NET Core build outputs
+bin/
+obj/
+
+# Ignore Node modules (for Angular)
+node_modules/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db

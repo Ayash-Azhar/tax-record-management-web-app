@@ -1,0 +1,6 @@
+@TaxRecordApi_HostAddress = http://localhost:5227
+
+GET {{TaxRecordApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
